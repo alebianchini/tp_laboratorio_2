@@ -1,0 +1,16 @@
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\bin\Debug\MainTP3.exe.config
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\bin\Debug\MainTP3.exe
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\bin\Debug\MainTP3.pdb
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\bin\Debug\ClasesAbstractas.dll
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\bin\Debug\Excepciones.dll
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\bin\Debug\Excepciones.pdb
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\obj\Debug\MainTP3.csprojAssemblyReference.cache
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\obj\Debug\MainTP3.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\obj\Debug\MainTP3.csproj.CopyComplete
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\obj\Debug\MainTP3.exe
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\obj\Debug\MainTP3.pdb
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\bin\Debug\Archivos.dll
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\bin\Debug\ClasesInstanciables.dll
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\bin\Debug\Archivos.pdb
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP3\MainTP3\bin\Debug\ClasesInstanciables.pdb
