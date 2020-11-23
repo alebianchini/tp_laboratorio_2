@@ -1,0 +1,16 @@
+Fecha de Compra: 23/11/2020 02:44:23
+-------------------------------------------------
+Datos del Vendedor: 
+	Nombre: Ariel
+	DNI: 41118720
+	Nro Empleado: 1003
+-------------------------------------------------
+Productos
+Carne de vaca			 x2  $681
+Cereal			 x1  $35,5
+Buzo Fila			 x3  $9600
+Remera Adidas			 x1  $1400
+Precio Total: 			11716,5
+-------------------------------------------------
+Gracias por su compra!
+

@@ -1,0 +1,13 @@
+Fecha de Compra: 23/11/2020 07:28:51
+-------------------------------------------------
+Datos del Vendedor: 
+	Nombre: Pepe
+	DNI: 20669033
+	Nro Empleado: 1001
+-------------------------------------------------
+Productos
+Remera Adidas			 x3  $4200
+Precio Total: 			$4200
+-------------------------------------------------
+Gracias por su compra!
+

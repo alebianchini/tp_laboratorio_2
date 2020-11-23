@@ -1,0 +1,14 @@
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\TestConsola\bin\Debug\Archivos.dll
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\TestConsola\bin\Debug\Entidades.dll
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\TestConsola\bin\Debug\Excepciones.dll
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\TestConsola\bin\Debug\Archivos.pdb
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\TestConsola\bin\Debug\Entidades.pdb
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\TestConsola\bin\Debug\Excepciones.pdb
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\TestConsola\obj\Debug\TestConsola.pdb

@@ -1,0 +1,14 @@
+Fecha de Compra: 23/11/2020 06:45:00
+-------------------------------------------------
+Datos del Vendedor: 
+	Nombre: Julieta
+	DNI: 39269493
+	Nro Empleado: 1002
+-------------------------------------------------
+Productos
+Gaseosa			 x2  $60
+Remera			 x2  $430
+Precio Total: 			$490
+-------------------------------------------------
+Gracias por su compra!
+

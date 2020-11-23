@@ -1,0 +1,13 @@
+Fecha de Compra: 23/11/2020 02:44:46
+-------------------------------------------------
+Datos del Vendedor: 
+	Nombre: Ariel
+	DNI: 41118720
+	Nro Empleado: 1003
+-------------------------------------------------
+Productos
+Cereal			 x2  $71
+Precio Total: 			71
+-------------------------------------------------
+Gracias por su compra!
+
