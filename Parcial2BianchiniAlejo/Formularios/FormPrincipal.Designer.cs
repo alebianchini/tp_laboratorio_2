@@ -33,6 +33,7 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.lvPedidosPendientes = new System.Windows.Forms.ListView();
             this.lvPedidosEntregados = new System.Windows.Forms.ListView();
+            this.btnAleatorios = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnAddPedido
@@ -111,12 +112,29 @@
             this.lvPedidosEntregados.UseCompatibleStateImageBehavior = false;
             this.lvPedidosEntregados.View = System.Windows.Forms.View.List;
             // 
+            // btnAleatorios
+            // 
+            this.btnAleatorios.BackColor = System.Drawing.Color.PaleGreen;
+            this.btnAleatorios.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnAleatorios.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(159)))), ((int)(((byte)(127)))));
+            this.btnAleatorios.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnAleatorios.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAleatorios.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(53)))), ((int)(((byte)(73)))));
+            this.btnAleatorios.Location = new System.Drawing.Point(714, 413);
+            this.btnAleatorios.Name = "btnAleatorios";
+            this.btnAleatorios.Size = new System.Drawing.Size(104, 98);
+            this.btnAleatorios.TabIndex = 39;
+            this.btnAleatorios.Text = "Generar Pedidos Aleatorios";
+            this.btnAleatorios.UseVisualStyleBackColor = false;
+            this.btnAleatorios.Click += new System.EventHandler(this.btnAleatorios_Click);
+            // 
             // FormPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightSkyBlue;
             this.ClientSize = new System.Drawing.Size(852, 536);
+            this.Controls.Add(this.btnAleatorios);
             this.Controls.Add(this.lvPedidosEntregados);
             this.Controls.Add(this.lvPedidosPendientes);
             this.Controls.Add(this.textBox1);
@@ -137,6 +155,7 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.ListView lvPedidosPendientes;
         private System.Windows.Forms.ListView lvPedidosEntregados;
+        private System.Windows.Forms.Button btnAleatorios;
     }
 }
 

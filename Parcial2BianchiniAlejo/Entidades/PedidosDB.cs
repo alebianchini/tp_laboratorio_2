@@ -74,32 +74,5 @@ namespace Entidades
                 }
             }
         }
-
-        ///// <summary>
-        ///// Actualiza el stock de un Alimento en particular de la Tabla de Alimentos de la base de datos
-        ///// </summary>
-        ///// <param name="alimento">Alimento a actualizar</param>
-        //public static void BorrarPendienteDB(PedidoConfirmado auxPedido)
-        //{
-        //    try
-        //    {
-        //        if (!(sqlConnection.State == System.Data.ConnectionState.Open))
-        //        {
-        //            sqlConnection.Open();
-        //        }
-        //        string command = $"DELETE PedidosPendientes WHERE ID = @Id";
-        //        SqlCommand sqlCommand = new SqlCommand(command, sqlConnection);
-        //        sqlCommand.Parameters.AddWithValue("Stock", alimento.Stock);
-        //        sqlCommand.Parameters.AddWithValue("Id", alimento.Id);
-        //        sqlCommand.ExecuteNonQuery();
-        //    }
-        //    finally
-        //    {
-        //        if (sqlConnection != null && sqlConnection.State == System.Data.ConnectionState.Open)
-        //        {
-        //            sqlConnection.Close();
-        //        }
-        //    }
-        //}
     }
 }

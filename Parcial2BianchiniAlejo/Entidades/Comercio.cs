@@ -221,10 +221,6 @@ namespace Entidades
             string rutaArchivo = String.Concat(AppDomain.CurrentDomain.BaseDirectory, "Pedidos.xml");
             Xml<List<PedidoConfirmado>> archivoXml = new Xml<List<PedidoConfirmado>>();
             archivoXml.Guardar(rutaArchivo, auxlist);
-
-            //string rutaArchivo = String.Concat(AppDomain.CurrentDomain.BaseDirectory, "Pedidos.xml");
-            //Xml<Queue<PedidoConfirmado>> archivoXml = new Xml<Queue<PedidoConfirmado>>();
-            //archivoXml.Guardar(rutaArchivo, colaPedidos);
         }
 
         public static void TestGeneracionNuevosPedidos()

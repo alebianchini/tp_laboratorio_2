@@ -114,6 +114,12 @@ namespace Formularios
 
         private void FormPrincipal_FormClosing(object sender, FormClosingEventArgs e)
         {
+            Comercio.GuardarColaPedidosPendientes();
+        }
+
+        private void btnAleatorios_Click(object sender, EventArgs e)
+        {
+            Comercio.TestGeneracionNuevosPedidos();
         }
     }
 }
