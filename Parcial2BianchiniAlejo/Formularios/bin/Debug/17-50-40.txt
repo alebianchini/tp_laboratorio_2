@@ -1,0 +1,14 @@
+Fecha de Compra: 17-50-40
+-------------------------------------------------
+Datos del Cliente: 
+	Nombre completo: Alejo Bianchini
+	DNI: 45641
+	Direccion: asda 123
+-------------------------------------------------
+Productos
+Ensalada			 x1  $70
+Jugo			 x1  $45
+Precio Total: 			$115
+-------------------------------------------------
+Gracias por su compra!
+

@@ -9,3 +9,14 @@ C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\Entidades\bin\Debug\Excepcion
 C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\Entidades\bin\Debug\Archivos.pdb
 C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\Entidades\bin\Debug\Excepciones.pdb
 C:\Users\Alejo\source\repos\Bianchini.Alejo.2D.TP4\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+F:\git\tp_laboratorio_2\Bianchini.Alejo.2D.TP4\Entidades\bin\Debug\Entidades.dll
+F:\git\tp_laboratorio_2\Bianchini.Alejo.2D.TP4\Entidades\bin\Debug\Entidades.pdb
+F:\git\tp_laboratorio_2\Bianchini.Alejo.2D.TP4\Entidades\bin\Debug\Archivos.dll
+F:\git\tp_laboratorio_2\Bianchini.Alejo.2D.TP4\Entidades\bin\Debug\Excepciones.dll
+F:\git\tp_laboratorio_2\Bianchini.Alejo.2D.TP4\Entidades\bin\Debug\Archivos.pdb
+F:\git\tp_laboratorio_2\Bianchini.Alejo.2D.TP4\Entidades\bin\Debug\Excepciones.pdb
+F:\git\tp_laboratorio_2\Bianchini.Alejo.2D.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\git\tp_laboratorio_2\Bianchini.Alejo.2D.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\git\tp_laboratorio_2\Bianchini.Alejo.2D.TP4\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+F:\git\tp_laboratorio_2\Bianchini.Alejo.2D.TP4\Entidades\obj\Debug\Entidades.dll
+F:\git\tp_laboratorio_2\Bianchini.Alejo.2D.TP4\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,14 @@
+Fecha de Compra: 17-53-59
+-------------------------------------------------
+Datos del Cliente: 
+	Nombre completo: as as
+	DNI: 12
+	Direccion: sa
+-------------------------------------------------
+Productos
+Hamburguesa lentajas			 x1  $60
+Coca Cola			 x1  $60
+Precio Total: 			$120
+-------------------------------------------------
+Gracias por su compra!
+

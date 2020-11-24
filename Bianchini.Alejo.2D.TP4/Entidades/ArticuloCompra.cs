@@ -9,7 +9,7 @@ namespace Entidades
     public class ArticuloCompra<T> where T : Producto
     {
         int cantidad;
-        T producto;
+        public T producto;
         double precioFinal;
         double precioUnitario;
 

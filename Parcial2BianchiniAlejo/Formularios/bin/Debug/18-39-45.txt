@@ -1,0 +1,14 @@
+Fecha de Compra: 18-39-45
+-------------------------------------------------
+Datos del Cliente: 
+	Nombre completo: as as
+	DNI: 12
+	Direccion: sin datos
+-------------------------------------------------
+Productos
+Sanguche veggie			 x1  $80
+Coca Cola			 x1  $60
+Precio Total: 			$140
+-------------------------------------------------
+Gracias por su compra!
+

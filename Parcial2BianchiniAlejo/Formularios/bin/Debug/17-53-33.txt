@@ -1,0 +1,13 @@
+Fecha de Compra: 17-53-33
+-------------------------------------------------
+Datos del Cliente: 
+	Nombre completo: as as
+	DNI: 12
+	Direccion: asd
+-------------------------------------------------
+Productos
+Hamburguesa lentajas			 x1  $60
+Precio Total: 			$60
+-------------------------------------------------
+Gracias por su compra!
+

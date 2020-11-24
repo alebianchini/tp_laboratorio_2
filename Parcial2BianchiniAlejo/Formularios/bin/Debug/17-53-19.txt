@@ -1,0 +1,14 @@
+Fecha de Compra: 17-53-19
+-------------------------------------------------
+Datos del Cliente: 
+	Nombre completo: as as
+	DNI: 12
+	Direccion: sin datos
+-------------------------------------------------
+Productos
+Sanguche veggie			 x1  $80
+Quilmes			 x2  $160
+Precio Total: 			$240
+-------------------------------------------------
+Gracias por su compra!
+

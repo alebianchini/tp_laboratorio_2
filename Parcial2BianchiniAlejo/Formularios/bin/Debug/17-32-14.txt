@@ -1,0 +1,14 @@
+Fecha de Compra: 17-32-14
+-------------------------------------------------
+Datos del Cliente: 
+	Nombre completo: as as
+	DNI: 12
+	Direccion: sin datos
+-------------------------------------------------
+Productos
+Hamburguesa lentajas			 x1  $60
+Brahama			 x1  $70
+Precio Total: 			$130
+-------------------------------------------------
+Gracias por su compra!
+

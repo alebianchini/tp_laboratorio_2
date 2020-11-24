@@ -1,0 +1,13 @@
+Fecha de Compra: 17-33-19
+-------------------------------------------------
+Datos del Cliente: 
+	Nombre completo: as as
+	DNI: 12
+	Direccion: as
+-------------------------------------------------
+Productos
+Hamburguesa			 x2  $70
+Precio Total: 			$70
+-------------------------------------------------
+Gracias por su compra!
+

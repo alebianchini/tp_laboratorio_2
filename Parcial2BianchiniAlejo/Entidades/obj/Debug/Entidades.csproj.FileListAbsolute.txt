@@ -1,0 +1,11 @@
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Entidades\bin\Debug\Archivos.dll
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Entidades\bin\Debug\Archivos.pdb
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Entidades\obj\Debug\Entidades.pdb

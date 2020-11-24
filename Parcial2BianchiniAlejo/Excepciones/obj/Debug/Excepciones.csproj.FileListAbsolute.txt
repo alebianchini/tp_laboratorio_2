@@ -1,0 +1,6 @@
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Alejo\source\repos\Parcial2BianchiniAlejo\Excepciones\obj\Debug\Excepciones.pdb
