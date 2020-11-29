@@ -41,13 +41,15 @@
             // 
             // txtNumero1
             // 
-            this.txtNumero1.Location = new System.Drawing.Point(14, 47);
+            this.txtNumero1.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNumero1.Location = new System.Drawing.Point(14, 46);
             this.txtNumero1.Name = "txtNumero1";
-            this.txtNumero1.Size = new System.Drawing.Size(100, 20);
+            this.txtNumero1.Size = new System.Drawing.Size(100, 27);
             this.txtNumero1.TabIndex = 0;
             // 
             // cmbOperador
             // 
+            this.cmbOperador.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F);
             this.cmbOperador.FormattingEnabled = true;
             this.cmbOperador.Items.AddRange(new object[] {
             "+",
@@ -56,68 +58,85 @@
             "/"});
             this.cmbOperador.Location = new System.Drawing.Point(168, 46);
             this.cmbOperador.Name = "cmbOperador";
-            this.cmbOperador.Size = new System.Drawing.Size(65, 21);
+            this.cmbOperador.Size = new System.Drawing.Size(65, 28);
             this.cmbOperador.TabIndex = 1;
             // 
             // txtNumero2
             // 
+            this.txtNumero2.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F);
             this.txtNumero2.Location = new System.Drawing.Point(282, 47);
             this.txtNumero2.Name = "txtNumero2";
-            this.txtNumero2.Size = new System.Drawing.Size(100, 20);
+            this.txtNumero2.Size = new System.Drawing.Size(100, 27);
             this.txtNumero2.TabIndex = 2;
             // 
             // btnOperar
             // 
-            this.btnOperar.Location = new System.Drawing.Point(14, 95);
+            this.btnOperar.BackColor = System.Drawing.Color.DarkBlue;
+            this.btnOperar.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOperar.ForeColor = System.Drawing.Color.White;
+            this.btnOperar.Location = new System.Drawing.Point(14, 87);
             this.btnOperar.Name = "btnOperar";
-            this.btnOperar.Size = new System.Drawing.Size(100, 23);
+            this.btnOperar.Size = new System.Drawing.Size(115, 35);
             this.btnOperar.TabIndex = 3;
             this.btnOperar.Text = "Operar";
-            this.btnOperar.UseVisualStyleBackColor = true;
+            this.btnOperar.UseVisualStyleBackColor = false;
             this.btnOperar.Click += new System.EventHandler(this.btnOperar_Click);
             // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Location = new System.Drawing.Point(150, 95);
+            this.btnLimpiar.BackColor = System.Drawing.Color.DarkBlue;
+            this.btnLimpiar.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F);
+            this.btnLimpiar.ForeColor = System.Drawing.Color.White;
+            this.btnLimpiar.Location = new System.Drawing.Point(142, 88);
             this.btnLimpiar.Name = "btnLimpiar";
-            this.btnLimpiar.Size = new System.Drawing.Size(100, 23);
+            this.btnLimpiar.Size = new System.Drawing.Size(113, 35);
             this.btnLimpiar.TabIndex = 4;
             this.btnLimpiar.Text = "Limpiar";
-            this.btnLimpiar.UseVisualStyleBackColor = true;
+            this.btnLimpiar.UseVisualStyleBackColor = false;
             this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
             // btnCerrar
             // 
-            this.btnCerrar.Location = new System.Drawing.Point(282, 95);
+            this.btnCerrar.BackColor = System.Drawing.Color.DarkBlue;
+            this.btnCerrar.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F);
+            this.btnCerrar.ForeColor = System.Drawing.Color.White;
+            this.btnCerrar.Location = new System.Drawing.Point(269, 88);
             this.btnCerrar.Name = "btnCerrar";
-            this.btnCerrar.Size = new System.Drawing.Size(100, 23);
+            this.btnCerrar.Size = new System.Drawing.Size(113, 35);
             this.btnCerrar.TabIndex = 5;
             this.btnCerrar.Text = "Cerrar";
-            this.btnCerrar.UseVisualStyleBackColor = true;
+            this.btnCerrar.UseVisualStyleBackColor = false;
             this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
             // 
             // btnConvertirABinario
             // 
-            this.btnConvertirABinario.Location = new System.Drawing.Point(14, 136);
+            this.btnConvertirABinario.BackColor = System.Drawing.Color.DarkBlue;
+            this.btnConvertirABinario.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F);
+            this.btnConvertirABinario.ForeColor = System.Drawing.Color.White;
+            this.btnConvertirABinario.Location = new System.Drawing.Point(14, 130);
             this.btnConvertirABinario.Name = "btnConvertirABinario";
-            this.btnConvertirABinario.Size = new System.Drawing.Size(176, 23);
+            this.btnConvertirABinario.Size = new System.Drawing.Size(176, 35);
             this.btnConvertirABinario.TabIndex = 6;
             this.btnConvertirABinario.Text = "Convertir a Binario";
-            this.btnConvertirABinario.UseVisualStyleBackColor = true;
+            this.btnConvertirABinario.UseVisualStyleBackColor = false;
             this.btnConvertirABinario.Click += new System.EventHandler(this.btnConvertirABinario_Click);
             // 
             // btnConvertirADecimal
             // 
-            this.btnConvertirADecimal.Location = new System.Drawing.Point(206, 136);
+            this.btnConvertirADecimal.BackColor = System.Drawing.Color.DarkBlue;
+            this.btnConvertirADecimal.Font = new System.Drawing.Font("MS Reference Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnConvertirADecimal.ForeColor = System.Drawing.Color.White;
+            this.btnConvertirADecimal.Location = new System.Drawing.Point(206, 130);
             this.btnConvertirADecimal.Name = "btnConvertirADecimal";
-            this.btnConvertirADecimal.Size = new System.Drawing.Size(176, 23);
+            this.btnConvertirADecimal.Size = new System.Drawing.Size(176, 35);
             this.btnConvertirADecimal.TabIndex = 7;
             this.btnConvertirADecimal.Text = "Convertir a Decimal";
-            this.btnConvertirADecimal.UseVisualStyleBackColor = true;
+            this.btnConvertirADecimal.UseVisualStyleBackColor = false;
             this.btnConvertirADecimal.Click += new System.EventHandler(this.btnConvertirADecimal_Click);
             // 
             // lblResultado
             // 
+            this.lblResultado.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F);
             this.lblResultado.Location = new System.Drawing.Point(67, 18);
             this.lblResultado.Name = "lblResultado";
             this.lblResultado.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -129,6 +148,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.MediumTurquoise;
             this.ClientSize = new System.Drawing.Size(396, 184);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnConvertirADecimal);

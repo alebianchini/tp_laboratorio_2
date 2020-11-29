@@ -11,3 +11,8 @@ C:\Users\Alejo\source\repos\TrabajoPractico1\MiCalculadora\obj\Debug\MiCalculado
 C:\Users\Alejo\source\repos\TrabajoPractico1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
 C:\Users\Alejo\source\repos\TrabajoPractico1\MiCalculadora\obj\Debug\MiCalculadora.exe
 C:\Users\Alejo\source\repos\TrabajoPractico1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+F:\git\tp_laboratorio_2\TrabajoPractico1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+F:\git\tp_laboratorio_2\TrabajoPractico1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+F:\git\tp_laboratorio_2\TrabajoPractico1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+F:\git\tp_laboratorio_2\TrabajoPractico1\MiCalculadora\obj\Debug\MiCalculadora.exe
+F:\git\tp_laboratorio_2\TrabajoPractico1\MiCalculadora\obj\Debug\MiCalculadora.pdb

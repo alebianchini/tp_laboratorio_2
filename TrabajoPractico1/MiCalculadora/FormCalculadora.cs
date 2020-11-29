@@ -56,14 +56,7 @@ namespace MiCalculadora
         private void btnOperar_Click(object sender, EventArgs e)
         {
             flag = 0;
-            n1.Num = this.txtNumero1.Text;
-            n2.Num = this.txtNumero2.Text;
-            operador = this.cmbOperador.Text;
-            if(operador != "+" && operador != "-" && operador != "*" && operador != "/")
-            {
-                this.cmbOperador.Text = "+";
-            }
-            this.lblResultado.Text = Operar(n1.Num, n2.Num, operador).ToString();
+            this.lblResultado.Text = Operar(this.txtNumero1.Text, this.txtNumero2.Text, this.cmbOperador.Text).ToString();
         }
 
         private void btnCerrar_Click(object sender, EventArgs e)
@@ -81,8 +74,8 @@ namespace MiCalculadora
             if (this.lblResultado.Text != "0" && this.lblResultado.Text != "Valor Invalido" && flag != 1)
             {
                 this.lblResultado.Text = Numero.DecimalBinario(this.lblResultado.Text);
+                flag = 1;
             }
-            flag = 1;
         }
 
         private void btnConvertirADecimal_Click(object sender, EventArgs e)
@@ -90,8 +83,8 @@ namespace MiCalculadora
             if (this.lblResultado.Text != "0" && this.lblResultado.Text != "Valor Invalido")
             {
                 this.lblResultado.Text = Numero.BinarioDecimal(this.lblResultado.Text);
+                flag = 0;
             }
-            flag = 0;
         }
     }
 }

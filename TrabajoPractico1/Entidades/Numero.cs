@@ -9,27 +9,26 @@ namespace Entidades
 {
     public class Numero
     {
-        private double num;
+        private double numero;
 
-        public string Num
+        public string SetNumero
         {
-            get { return num.ToString(); }
-            set { num = ValidarNumero(value); }
+            set { numero = ValidarNumero(value); }
         }
 
         public Numero()
         {
-            this.num = 0;
+            this.numero = 0;
         }
 
-        public Numero(string numero)
+        public Numero(string strNumero)
         {
-            double.TryParse(numero, out this.num);
+            double.TryParse(strNumero, out this.numero);
         }
 
         public Numero(double numero)
         {
-            this.num = numero;
+            this.numero = numero;
         }
 
         private static double ValidarNumero(string strNumero)
@@ -38,10 +37,7 @@ namespace Entidades
             {
                 return retorno;
             }
-            else
-            {
-                return 0;
-            }
+            return 0;
         }
 
         private static bool EsBinario(string binario)
@@ -93,7 +89,7 @@ namespace Entidades
         {
             double resultado;
 
-            resultado = n1.num + n2.num;
+            resultado = n1.numero + n2.numero;
             return resultado;
         }
 
@@ -101,7 +97,7 @@ namespace Entidades
         {
             double resultado;
 
-            resultado = n1.num - n2.num;
+            resultado = n1.numero - n2.numero;
             return resultado;
         }
 
@@ -109,7 +105,7 @@ namespace Entidades
         {
             double resultado;
 
-            resultado = n1.num * n2.num;
+            resultado = n1.numero * n2.numero;
             return resultado;
         }
 
@@ -117,9 +113,9 @@ namespace Entidades
         {
             double resultado;
             
-            if(n2.num != 0)
+            if(n2.numero != 0)
             {
-            resultado = n1.num / n2.num;
+                resultado = n1.numero / n2.numero;
             }
             else
             {
